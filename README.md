@@ -3,7 +3,7 @@ My First repository
 
 ## **My Favorite Series**
 
-**The Boys**
-1. Spider-Man
-2. The Boys
-3. 
+# **The Boys**
+**Characters**
+- Karl Urban as Billy Butcher
+
